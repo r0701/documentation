@@ -3,11 +3,11 @@ label: Post
 hide_body: false
 display_field: title
 fields:
-- name: common
+- name: title
   type: include
   config: {}
   template: common
-  label: Common
+  label: Title
 - name: image
   type: file
   config:
