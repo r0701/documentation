@@ -5,4 +5,6 @@ tags = []
 title = "Docker Presentation"
 
 +++
-# Docker To Remove Dependencies 
+# Docker To Remove Dependencies
+
+what is docker
