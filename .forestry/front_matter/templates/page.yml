@@ -16,5 +16,3 @@ fields:
     options:
     - main
   label: Menu
-pages:
-- content/Presentation/docker.md
