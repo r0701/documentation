@@ -6,7 +6,7 @@ fields:
 - name: title
   type: include
   config: {}
-  template: common
+  template: set
   label: Title
 - name: image
   type: file
